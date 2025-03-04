@@ -1,0 +1,17 @@
+{
+"dataset_folder": "D:/tests",
+"include_folders": [
+{
+"folder_name": "folder1",
+"include_files": ["file1", "file2"]
+},
+{
+"folder_name": "folder2",
+"include_files": ["file3"]
+},
+{
+"folder_name": "folder3",
+"include_files": ["file4", "file4", "file6"]
+}
+]
+}
